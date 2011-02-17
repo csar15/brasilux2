@@ -1,0 +1,43 @@
+
+  <tbody>
+    <tr>
+      <td width="98" height="20" align="left">47.02.001</td>
+      <td width="164" align="left">AMARELO OURO</td>
+      <td width="68" align="left" sdnum="9;0;@">ffd200</td>
+    </tr>
+    <tr>
+      <td height="20" align="left">47.22.240</td>
+      <td align="left">VERDE QUADRA</td>
+      <td align="left">3a7b37</td>
+    </tr>
+    <tr>
+      <td height="20" align="left">47.03.206</td>
+      <td align="left">AZUL PROFUNDO</td>
+      <td align="left" sdnum="9;0;@">1b5782</td>
+    </tr>
+    <tr>
+      <td height="20" align="left">47.23.145</td>
+      <td align="left">VERMELHO ÓXIDO</td>
+      <td align="left" sdnum="9;0;@">8c481b</td>
+    </tr>
+    <tr>
+      <td height="20" align="left">47.47.001</td>
+      <td align="left">CONCRETO</td>
+      <td align="left" sdnum="9;0;@">93914e</td>
+    </tr>
+    <tr>
+      <td height="20" align="left">47.06.140</td>
+      <td align="left">CINZA ESCURO</td>
+      <td align="left" sdnum="9;0;@">5a5a5a</td>
+    </tr>
+    <tr>
+      <td height="20" align="left">47.30.001</td>
+      <td align="left">CERÂMICA</td>
+      <td align="left" sdnum="9;0;@">af4905</td>
+    </tr>
+    <tr>
+      <td height="20" align="left">47.05.030</td>
+      <td align="left">BRANCO</td>
+      <td align="left">ffffff</td>
+    </tr>
+  </tbody>
