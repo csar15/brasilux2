@@ -1,0 +1,43 @@
+  <?xml version="1.0" encoding="ISO-8859-1"?>
+  <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+      <head></head>
+      <body>
+           <div xml:lang="en">
+              <p begin="00:00:00.00" dur="3s">Olá, Bem vindo ao vídeo explicativo do Simulador de Ambientes BRASILUX</p>
+              <p begin="00:00:03.00" dur="2s">Clique no botão: - Escolha uma foto</p>
+              <p begin="00:00:06.00" dur="6s">Escolha uma foto do banco de imagens</p>
+              <p begin="00:00:14.00" dur="5s">Clique na parede que deseja pintar</p>
+              <p begin="00:00:20.00">Selecione uma palheta de cor da sua preferência</p>
+			  <p begin="00:00:25.00">Clique na cor desejada</p>
+			  <p begin="00:00:27.00">Selecione outra parede</p>
+			  <p begin="00:00:29.00">Clique na cor desejada para pintar</p>
+			  <p begin="00:00:32.00">Faça a mesma operação para todas as paredes que deseja pintar</p>
+			  <p begin="00:00:35.00">A legenda cinza do simulador índica o código da cor e nome</p>
+			  <p begin="00:00:44.00" dur="4s">Basta selecionar a parede pintada para saber qual tinta foi utilizada</p>
+			  <p begin="00:00:52.00" dur="4s">Selecione outra palheta de cor para mais variedades de tintas</p>
+			  <p begin="00:01:00.00">Na Barra de Ferramentas de Temperatura, clique nos botões:</p>
+			  <p begin="00:01:06.00">DIA - para visualizar a imagem em ambiente claro</p>
+			  <p begin="00:01:09.00">NUBLADO - para visualizar a imagem em ambiente normal</p>
+			  <p begin="00:01:12.00" dur="4s">NOITE - para visualizar a imagem em ambiente noturno</p>
+			  <p begin="00:01:30.00">No menu inferior do simulador ao clicar em:</p>
+			  <p begin="00:01:38.00">COMPARAR</p>
+			  <p begin="00:01:40.00" dur="5s">Compara a imagem editada com a comparação anterior</p>
+			  <p begin="00:01:54.00" dur="8s">Ele servirá como base para sua próxima comparação e nunca com a imagem inicial</p>
+			  <p begin="00:02:08.00">O botão IMPRIMIR</p>
+			  <p begin="00:02:10.00">Abre a caixa de impressão do seu computador (Caso tenha impressora instalada)</p>
+			  <p begin="00:02:15.00">O botão SALVAR</p>
+			  <p begin="00:02:17.00">Salva os ambientes editados em qualquer área de seu computador.</p>
+			  <p begin="00:02:20.00">Clique no botão CARREGUE SUA FOTO</p>
+			  <p begin="00:02:25.00">Escolha uma foto própria e edite em nosso simulador</p>
+			  <p begin="00:02:35.00">Clique na ferramenta LAÇO na barra de ferramentas e crie sua própria máscara de pintura</p>
+			  <p begin="00:02:43.00">Basta criar os pontos em sequencia</p>
+			  <p begin="00:03:03.00">Para finalizar a construção da máscara</p>
+			  <p begin="00:03:06.00" dur="4">O ponto final a ser criado deverá ser em cima do ponto inicial</p>
+			  <p begin="00:03:11.00" dur="7s" >Selecione o cor desejada para pintar a máscara criada</p>
+			  <p begin="00:03:36.00" dur="10s" >Crie quantas máscaras achar necessário</p>
+			  <p begin="00:04:28.00" dur="3s">Obrigado</p>
+			  
+     		  
+          </div>    
+      </body>
+  </tt>
